@@ -1,2 +1,2 @@
-This is a grating message.
+This is a greeting message.
 hello everyone.
